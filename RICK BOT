@@ -1,0 +1,6 @@
+pkg install git
+pkg install bash
+git clone https://FATHURRAHMAN2020/RICK-BOTv6
+cd RICK-BOTv6
+bash install.sh
+npm start/node index.js
